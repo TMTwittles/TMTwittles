@@ -1,6 +1,6 @@
 ### About me ###
-Programmer with a focus on game dev in C++ and C#. Real passion for creating interesting AI behaviours and unique gameplay functionality. 
+Experienced programmer, I love dissecting complex problems and creating simple yet equally complex solutions. I work in mostly in C++ and C# but have a soft spot for all languages and frameworks.
 
 ### Current Projects ###
-Merino23 - Unreal project written primarily in C++, currently working on refactoring character controller to use a data-oriented HSFM.
+Muse - Current UE project I am working on, primarily written in C++ with minimal blueprints. Current prototyping exciting action gameplay mechanics for a third person perspective. 
  
